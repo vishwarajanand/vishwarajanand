@@ -8,7 +8,7 @@
 - 🌱  More than happy to consult on your business problems
 - 👯  Infatuated with computers/softwares/advertising/AI/ML/NLP/IoT
 - 🤔  If my work excites you, feel free to share
-- 💬  Loves feedback, please drop your previous words to my inbox!
-- 📫  Reach me at [GMail Inbox](mailto:vishwaraj.anand00@gmail.com?subject=[GitHub]%20Reach%20Out)
+- 💬  I love feedback, please drop your precious words to my inbox!
+- 📫  Reach me at [Gmail:vishwaraj.anand00@gmail.com](mailto:vishwaraj.anand00@gmail.com?subject=[GitHub]%20Reach%20Out)
 
 Do check out my work and provide feedback :-)
