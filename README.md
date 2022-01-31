@@ -4,7 +4,7 @@
 
 ⚡ Feel free to visit my website https://vishwarajanand.com to know more about me!
 
-- 🔭  Over ~8 years experience in tech industry
+- 🔭  Actively working in tech industry since 2012
 - 🌱  More than happy to consult on your business problems
 - 👯  Infatuated with computers/softwares/advertising/AI/ML/NLP/IoT
 - 🤔  If my work excites you, feel free to share
