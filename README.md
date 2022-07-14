@@ -1,8 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vishwarajanand)](https://github.com/vishwarajanand/github-profile-trophy)
+
+
 <details>
-   <summary> <samp>📈 GitHub stats</samp></summary>
-   <br/>
-   ![Vishwaraj Anand GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwarajanand&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+    <summary> <samp>📈 GitHub stats</samp></summary>
+
+  ![Vishwaraj Anand GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwarajanand&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 </details>
 
 ## Hi there 👋
